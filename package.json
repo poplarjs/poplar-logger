@@ -1,0 +1,24 @@
+{
+  "name": "poplar-logger",
+  "version": "1.0.0",
+  "description": "Poplar logger middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poplarjs/poplar-logger.git"
+  },
+  "keywords": [
+    "poplar",
+    "logger",
+    "middleware"
+  ],
+  "author": "lyfeyaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poplarjs/poplar-logger/issues"
+  },
+  "homepage": "https://github.com/poplarjs/poplar-logger#readme"
+}
